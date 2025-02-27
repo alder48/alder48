@@ -3,11 +3,8 @@ Hi there! 👋<br>I'm a technology enthusiast who thrives on building cool stuff
 
 
 ## 🌐 Socials:
-🔹 **[Eleven Roleplay Discord](https://discord.gg/qgbMFcnKhh)**  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qgbMFcnKhh)  
-
-🔹 **[Botify Discord](https://discord.gg/YhwWrgYQvZ)**  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YhwWrgYQvZ)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qgbMFcnKhh)🔹 **[Eleven Roleplay](https://discord.gg/qgbMFcnKhh)**  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YhwWrgYQvZ)🔹 **[Botify](https://discord.gg/YhwWrgYQvZ)**  
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@eleven.roleplaayy)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ElevenRoleplayy)  
 
