@@ -3,8 +3,8 @@ Hi there! 👋<br>I'm a technology enthusiast who thrives on building cool stuff
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qgbMFcnKhh) # Eleven Roleplay
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YhwWrgYQvZ) # Botify  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qgbMFcnKhh) Eleven Roleplay<br/>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YhwWrgYQvZ) Botify<br/>
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@eleven.roleplaayy)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ElevenRoleplayy)  
 
@@ -26,6 +26,3 @@ Hi there! 👋<br>I'm a technology enthusiast who thrives on building cool stuff
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buycoffee.to/alder) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
