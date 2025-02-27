@@ -22,7 +22,7 @@ Hi there! 👋<br>I'm a technology enthusiast who thrives on building cool stuff
 [![](https://visitcount.itsvg.in/api?id=alder&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alder) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buycoffee.to/alder) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
